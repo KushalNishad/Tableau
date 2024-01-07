@@ -3,7 +3,7 @@ This repository contains some of the visualization dashboards that I have create
 
 
 # Dashboards
-Here are some of the dashboards that I have created and their links:
+Here are some of the dashboards that I have created and their links.
 
 
 # Saliba vs Arsenal Defenders: 
